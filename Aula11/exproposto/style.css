@@ -1,0 +1,9 @@
+body {
+    background-color: #333;
+    color: aqua;
+}
+
+div#result {
+    font-weight: bold;
+    color: rgb(0, 140, 255);
+}

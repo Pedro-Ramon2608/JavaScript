@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(29, 128, 241); /* Altera o background da página*/
+    color: white;
+    font: normal 15pt Arial;
+}
+
+h1 {
+    color: rgb(187, 7, 187);
+}

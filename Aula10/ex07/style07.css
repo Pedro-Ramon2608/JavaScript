@@ -1,0 +1,26 @@
+body {
+    font: normal 12pt Arial;
+    background-color: white;
+    color: #333;
+    transition: 1s;
+}
+
+body.dark-theme {
+    background-color: #272727;
+    color: white;
+}
+
+input {
+    font: normal 12pt Arial;
+    width: 100px;
+}
+
+.btntheme {
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+}
+
+div#result {
+    margin-top: 30px;
+}
