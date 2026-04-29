@@ -6,7 +6,7 @@ let pessoa = { // {} cria o objeto
         console.log(`${this.nome} engordou ${p}Kg`); 
         this.peso += p;
     }
-}
+};
 
 console.log(`${pessoa.nome} pesa ${pessoa.peso.toFixed(2)}Kg`);
 
